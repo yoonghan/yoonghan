@@ -8,7 +8,7 @@ Hi I am Han and I use Github to learn, maintain and share.
 ### Repository of interest
 
 * V3 of walcron website [https://github.com/yoonghan/yoonghan.github.io]
-* Old website of 10 years [https://github.com/yoonghan/walcron]
+* Azure Documentations [https://github.com/yoonghan/Azure-Cosmos-DB-DP-420], [https://github.com/yoonghan/AZ-104-Azure-Administrator-Associate], [https://github.com/yoonghan/SC-300-Identity-and-Access-Administrator]
 * Zoo Negara Malaysia [https://github.com/yoonghan/zoo]
 * NPM Shared Package [https://github.com/yoonghan/walcron-microfrontend-shared]
 * Microfront-End POC [https://github.com/yoonghan/zelda-root]
